@@ -13,7 +13,7 @@ puzzles which you can input into FSudoku like so:
 
     ./fsudoku < puzzles/hardest.txt
 
-The above produce this output:
+The above produces this output:
 
 ```
 ? ? ?  ? ? ?  ? ? ? 
