@@ -41,3 +41,8 @@ Solving . . . hard . . . done
 4 8 1  2 7 3  6 5 9 
 3 5 7  9 6 4  8 2 1 
 ```
+
+Note that FSudoku will also tell you if a puzzle is hard or not.  Any puzzle
+which does not succumb immediately to the greedy algorithm is considered hard.
+Harder puzzles require testing different possible solutions and backtracking
+when those tests fail, until a solution is found.
